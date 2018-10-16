@@ -23,13 +23,16 @@
   },
   "homepage": "https://github.com/mohamedr20/ReactSpotify#readme",
   "dependencies": {
+    "camelcase-keys": "^4.2.0",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
     "dotenv": "^6.1.0",
     "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1",
     "querystring": "^0.2.0",
     "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "urijs": "^1.19.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
